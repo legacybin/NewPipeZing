@@ -96,7 +96,7 @@ NewPipe supports multiple services. Our [docs](https://teamnewpipe.github.io/doc
 
 ## Updates
 When a change to the NewPipe code occurs (due to either adding features or bug fixing), eventually a release will occur. These are in the format x.xx.x . In order to get this new version, you can:
- 1. Download the APK from [releases](https://github.com/ShareASmile/NewPipeZing/releases) and install it.
+ 1. Download the APK from [releases](https://github.com/RSoulwin/NewPipeZing/releases) and install it.
  2. Build a debug APK yourself. This is the fastest way to get new features on your device, but is much more complicated, so we recommend using above method. Note that building an APK debug excludes a key.
 
 In the meanwhile, if you want to switch sources for some reason (e.g. NewPipe's core functionality was broken and F-Droid doesn't have the update yet), we recommend following this procedure:
