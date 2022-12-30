@@ -27,7 +27,7 @@ on:
       - '.github/ISSUE_TEMPLATE/**'
 
 jobs:
-  build
+  build-and-test-jvm:
     runs-on: ubuntu-latest
 
     steps:
