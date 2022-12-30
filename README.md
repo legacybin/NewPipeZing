@@ -1,6 +1,6 @@
 # NewPipeZing
 
-NewPipeZing updated version 0.19.8 with up-to-date NewPipeExtractor dependency
+NewPipeZing Reloaded version 0.19.8 with up-to-date NewPipeExtractor dependency
 
 ## Description
 
