@@ -32,8 +32,8 @@ jobs:
       - name: Build release apk
         run: ./gradlew assembleRelease --stacktrace
 
-      - name: Sign release
-      - uses: ilharp/sign-android-release@v1 # Or use @nightly
+      - name: Sign Android release 2
+        uses: ilharp/sign-android-release@v1.0.4
         name: Sign app APK
         id: sign_app
         with:
