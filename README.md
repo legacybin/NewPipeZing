@@ -4,7 +4,7 @@ NewPipeZing Reloaded version 0.19.8 with up-to-date NewPipeExtractor dependency
 
 ## Description
 
-This repository contains old version 0.19.8 of [NewPipe Android application](https://github.com/TeamNewPipe/NewPipe) with up-to-date [NewPipeExtractor](https://github.com/TeamNewPipe/NewPipeExtractor) dependency.
+This repository contains old preunified version 0.19.8 of [NewPipe Android application](https://github.com/TeamNewPipe/NewPipe) with Java 8 Compatible for old devices [NewPipeExtractor](https://github.com/ShareASmile/NewPipeExtractor) dependency.
 
 The application itself heavily relies on the extractor component which is responsible for proper parsing of various video/audio streams, including Youtube site. The old NewPipe version 0.19.8 depends on old extractor version which is practically deprecated and can't handle current Youtube (and similar?) streams, thus rendering the application useless for daily use.
 
@@ -23,7 +23,7 @@ Not so long ago, NewPipe project implemented a new UI elements for video streams
 <h4 align="center">A libre lightweight streaming frontend for Android.</h4>
 
 <p align="center">
-<a href="https://github.com/RSoulwin/NewPipeZing/releases" alt="GitHub release"><img src="https://img.shields.io/github/release/TeamNewPipe/NewPipe.svg" ></a>
+<a href="https://github.com/RSoulwin/NewPipeZing/releases" alt="GitHub release"><img src="https://img.shields.io/github/release/RSoulwin/NewPipeZing.svg" ></a>
 <a href="https://www.gnu.org/licenses/gpl-3.0" alt="License: GPLv3"><img src="https://img.shields.io/badge/License-GPL%20v3-blue.svg"></a>
 <a href="https://hosted.weblate.org/engage/newpipe/" alt="Translation Status"><img src="https://hosted.weblate.org/widgets/newpipe/-/svg-badge.svg"></a>
 <a href="https://www.bountysource.com/teams/newpipe" alt="Bountysource bounties"><img src="https://img.shields.io/bountysource/team/newpipe/activity.svg?colorB=cd201f"></a>
